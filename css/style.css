@@ -337,7 +337,7 @@
 
 .sakura {
 	/* background: -webkit-linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9));
-    background: linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9));*/
+    background: linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9)); */
 	background: red;
 	pointer-events: none;
 	position: absolute
@@ -604,20 +604,20 @@ a {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    /* box-shadow: 0 3px 10px 0 rgba(100,100,100,.3); */
+    box-shadow: 0 3px 10px 0 rgba(100,100,100,.3);
 }
 .us img{
     width:250px;
     height: 250px;
     border-radius: 50%;
-    border-top: 10px solid rgb(140, 70, 205);
-    border-bottom: 10px solid rgb(122, 10, 227);
+    border-top: 10px solid #674ea7;
+    border-bottom: 10px solid #674ea7;
     margin-bottom: 20px;
 }
 .section h2{
     width:100%;
     text-align: center;
-    color:rgb(122, 10, 227);
+    color:#674ea7;
     font-size: 60px;
 }
 .us1 {
@@ -628,7 +628,7 @@ a {
     color:#fff;
     font-size: 40px;
     padding: 8px;
-    background-color: rgb(71, 110, 237);
+    background-color: #674ea7;
     border-radius: 8px;
 }
 
