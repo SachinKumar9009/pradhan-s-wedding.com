@@ -20,7 +20,7 @@
 	}
 }
 
-@-webkit-keyframes blow-soft-left {
+/* @-webkit-keyframes blow-soft-left {
 	0% {
 		margin-left: 0
 	}
@@ -90,9 +90,9 @@
 	100% {
 		margin-left: 100%
 	}
-}
+} */
 
-@-webkit-keyframes sway-0 {
+/* @-webkit-keyframes sway-0 {
 	0% {
 		-webkit-transform: rotate(-5deg)
 	}
@@ -333,7 +333,7 @@
 		-ms-transform: rotate(82deg);
 		transform: rotate(82deg)
 	}
-}
+} */
 
 .sakura {
 	/* background: -webkit-linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9));

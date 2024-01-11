@@ -29,7 +29,7 @@ var countDownDate = new Date("Mar 06, 2024 00:00:00").getTime();
 var x = setInterval(function() {
 
     // Get todays date and time
-    var now = new Date().getTime();
+    var now = new Date().getTime(); 
     
     // Find the distance between now and the count down date
     var distance = countDownDate - now;
@@ -84,7 +84,7 @@ var styles2 = [
 
 console.log('\n\n%c SAVE THE DATE: 06th Mar, 2024!', styles);
 
-console.log('%cYour presence is requested!%c\n\nRegards: Sachin Pradhan', styles1, styles2);
+console.log('%cYour presence is requested!%c\n\nRegards: Pradhan Family', styles1, styles2);
 
 console.log(
     `%cShaadi me zaroor aana!\n\n`,
