@@ -174,7 +174,7 @@ img {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
 	font-style: normal;
-	font-size: 60px;
+	font-size: 75px;
 	margin: 32px 0;
 	color: var(--primary-color);
 }
@@ -873,7 +873,7 @@ a {
  .section1 h2{
     width:100%;
     text-align: center;
-    color:#674ea7;
+    color: var(--primary-color);
     font-size: 60px;
 }
 .section1.light-mode {
