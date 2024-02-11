@@ -577,7 +577,7 @@ img {
 }
 
 .wrap {
-	height: 100vh;
+	height: auto;
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-wrap: wrap;
@@ -873,7 +873,7 @@ blockquote::after {
 	animation: animate-loading 1s linear infinite;
 }
 
-@keyframes animate-loading {
+/* @keyframes animate-loading {
 	0% {
 		transform: rotate(0deg);
 	}
@@ -881,7 +881,7 @@ blockquote::after {
 	100% {
 		transform: rotate(360deg);
 	}
-}
+} */
 
 /* Responsive Table Style */
 
